@@ -44,7 +44,7 @@ public class UberFastSoupListener implements Listener {
             return;
         }
         Player p = evt.getPlayer();
-        if (p != null && p.hasPermission("fastsoup.use")) {
+        if (p != null && p.hasPermission("uberfastsoup.use")) {
             boolean affected = false;
             {
                 int food = p.getFoodLevel();
