@@ -1,4 +1,4 @@
-package net.daboross.bukkitdev.fastsoup;
+package net.daboross.bukkitdev.uberfastsoup;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -13,7 +13,7 @@ import org.bukkit.inventory.ItemStack;
  *
  * @author daboross
  */
-public class FastSoupListener implements Listener {
+public class UberFastSoupListener implements Listener {
 
     private static final int MAX_HUNGER = 20;
     private static final int HEALTH_ADD_AMOUNT = 6;

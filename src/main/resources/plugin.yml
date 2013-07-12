@@ -1,5 +1,5 @@
 name: UberFastSoup
-main: net.daboross.bukkitdev.fastsoup.FastSoupBukkitMain
+main: net.daboross.bukkitdev.uberfastsoup.UberFastSoupBukkit
 version: 1.0.0
 author: Dabo Ross
 prefix: FastSoup
