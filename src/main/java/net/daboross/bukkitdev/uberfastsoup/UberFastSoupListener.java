@@ -52,7 +52,7 @@ public class UberFastSoupListener implements Listener {
                     p.setFoodLevel(MAX_HUNGER);
                     affected = true;
                 } else {
-                    int health = p.getHealth();
+                    double health = p.getHealth();
                     if (health < p.getMaxHealth()) {
                         affected = true;
                         if (health + HEALTH_ADD_AMOUNT >= p.getMaxHealth()) {
