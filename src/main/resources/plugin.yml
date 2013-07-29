@@ -1,6 +1,5 @@
-name: UberFastSoup
+name: ${project.name}
 main: net.daboross.bukkitdev.uberfastsoup.UberFastSoupBukkit
 version: ${project.version}
 author: Dabo Ross
-prefix: FastSoup
 description: This Plugin Makes Fast Soup
